@@ -1,0 +1,81 @@
+yes
+Cust#1
+Madison Square Garden
+Yorktown Heights
+yes
+Cust#2
+Yankee Stadium
+White Plains
+yes
+Cust#3
+MetLife Stadium
+Yonkers
+yes
+Cust#4
+Madison Square Garden
+Yorktown Heights
+yes
+Cust#5
+Yankee Stadium
+White Plains
+yes
+Cust#6
+MetLife Stadium
+Yonkers
+yes
+Cust#7
+Madison Square Garden
+Yorktown Heights
+yes
+Cust#8
+Yankee Stadium
+White Plains
+yes
+Cust#9
+Yankee Stadium
+White Plains
+yes
+Cust#10
+Yankee Stadium
+White Plains
+yes
+Cust#11
+Yankee Stadium
+White Plains
+yes
+Cust#12
+Yankee Stadium
+White Plains
+yes
+Cust#13
+Yankee Stadium
+White Plains
+yes
+Cust#14
+Yankee Stadium
+White Plains
+yes
+Cust#15
+Yankee Stadium
+White Plains
+yes
+Cust#16
+Yankee Stadium
+White Plains
+yes
+Cust#17
+Yankee Stadium
+White Plains
+yes
+Cust#18
+Yankee Stadium
+White Plains
+yes
+Cust#19
+Yankee Stadium
+White Plains
+yes
+Cust#20
+Yankee Stadium
+White Plains
+no
